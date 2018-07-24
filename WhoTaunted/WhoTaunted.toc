@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: WhoTaunted
+## Notes: Some notes about this addon.
+## Author: mre#2198
+## Version: 0.1
+
+embeds.xml
+
+WhoTaunted.lua
